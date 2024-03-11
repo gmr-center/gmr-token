@@ -25,6 +25,11 @@ The $GMR token introduces a pioneering economic model aimed at benefiting all st
 - [BNB Chain](https://bscscan.com/token/0x168e3b1746aa249a9b3603b70605924fe255ee1a)
 - [Base](https://basescan.org/token/0xa617c0c739845b2941bd8edd05c9f993ecc97c18)
 
+**Token Bridge**:
+
+- [BNB Chain > Base](https://app.chainport.io/?from=BSC&to=BASE&token=0x168e3b1746aa249a9b3603b70605924fe255ee1a)
+- [Base > BNB Chain](https://app.chainport.io/?from=BASE&to=BSC&token=0xa617c0c739845b2941bd8edd05c9f993ecc97c18)
+
 ## Connect & Contribute
 
 Join the $GMR community and take part in shaping the future of gaming:
@@ -45,3 +50,5 @@ Join the $GMR community and take part in shaping the future of gaming:
 ## About GMR
 
 At the core of $GMR lies a passion for gaming and a vision to empower gamers worldwide. Through cutting-edge technology and a community-focused approach, $GMR is setting new standards in how gamers earn, spend, and enjoy their digital assets. Learn more about our journey and vision at [GMR Center](https://gmr.center/).
+
+Also, don't forget to check out our [Whitepaper](https://whitepaper.gmr.center/) for a comprehensive overview of the $GMR token and its ecosystem.
